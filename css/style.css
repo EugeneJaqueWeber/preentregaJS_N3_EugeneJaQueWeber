@@ -1,3 +1,16 @@
 .filtro {
     display: none;
 }
+
+.input2 {
+
+    background-color: aquamarine;
+
+}
+
+.placeHolderCambio {
+
+    width: 330px;
+    size: 200px;
+
+}
